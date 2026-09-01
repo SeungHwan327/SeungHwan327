@@ -10,6 +10,7 @@
 * 🏋️ Currently building **HealthMine**, a workout tracking app
 * 💻 Comfortable with **C, Python, Java, and Kotlin**
 * 🧩 Enjoy solving coding problems on **CodeTree**
+* 🐕 Border Collie enthusiast
 
 ## 🛠 Tech Stack
 
