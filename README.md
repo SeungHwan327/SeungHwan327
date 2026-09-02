@@ -45,7 +45,10 @@ I occasionally enjoy solving algorithm and coding problems on **CodeTree**.
 * Data Persistence
 * App Architecture
 
-* Notion : https://crimson-soursop-991.notion.site/Lee-seung-hwan-f1cc38ab59624e1e9c9232e10df485ab
+## Notion
+* https://crimson-soursop-991.notion.site/Lee-seung-hwan-f1cc38ab59624e1e9c9232e10df485ab
+
+  
 ---
 
 > *Keep learning. Keep building.*
