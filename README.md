@@ -26,7 +26,7 @@
 
 ### 🏋️ HealthMine
 
-A workout tracking application built with **SwiftUI**.
+A workout tracking application built with **SwiftUI**. 
 
 * Record daily workouts
 * Track Push / Pull / Legs routines
