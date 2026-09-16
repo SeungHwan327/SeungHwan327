@@ -4,7 +4,7 @@
 
 > Currently building iOS applications with Swift and SwiftUI.
 
-## 🙋 About Me
+## 🙋 About Me 
 
 * 📱 Interested in iOS Development
 * 🏋️ Currently building **HealthMine**, a workout tracking app 
