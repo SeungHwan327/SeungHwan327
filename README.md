@@ -2,7 +2,7 @@
 
 ### iOS Developer 
 
-> Currently building iOS applications with Swift and SwiftUI.
+> Currently building iOS applications with Swift and SwiftUI. 
 
 ## 🙋 About Me 
 
